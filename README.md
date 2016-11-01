@@ -12,4 +12,9 @@ Please notice that OS specific intallation scripts are collected inside dedicate
 
 ## Usage
 Each script has several configuration options at the top of the script. These values can be overridden specifying values in `setup_config.sh` script.
-Once configured values in setup script or at the top of the script, just execute the script with `./setup_<component>`.
+Once configured values in setup script or at the top of the script, just execute the script with `./setup_<component>`. 
+
+## Contributors
+
+
+  * @davyabeye
